@@ -1,0 +1,8 @@
+c:\users\nikola\documents\visual studio 2013\Projects\Traffic\Traffic\bin\Debug\Traffic.exe.config
+c:\users\nikola\documents\visual studio 2013\Projects\Traffic\Traffic\bin\Debug\Traffic.exe
+c:\users\nikola\documents\visual studio 2013\Projects\Traffic\Traffic\bin\Debug\Traffic.pdb
+c:\users\nikola\documents\visual studio 2013\Projects\Traffic\Traffic\obj\Debug\Traffic.exe
+c:\users\nikola\documents\visual studio 2013\Projects\Traffic\Traffic\obj\Debug\Traffic.pdb
+C:\Users\Nikola\Desktop\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\Nikola\Desktop\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\Nikola\Desktop\Traffic\Traffic\obj\Debug\Traffic.pdb
